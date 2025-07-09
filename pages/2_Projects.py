@@ -20,6 +20,18 @@ projects = [
         "desc": "Do graphing, derivatives, integration and more easily in a math web app.",
         "demo": "https://calculator-anurag-nshm.streamlit.app",
         "repo": "https://github.com/anurag1818/scientific-cum-graph-calculator"
+    },
+    {
+        "title": "Interactive Periodic Table Tool",
+        "desc": "Know about Elements and explore by the interaction of color coding easily in a chemistry web app.",
+        "demo": "https://interactive-periodic-table-anurag.streamlit.app",
+        "repo": "https://github.com/anurag-panda-dev/interactive-periodic-table"
+    },
+    {
+        "title": "Math Graphing Tool (2D & 3D)",
+        "desc": "Do graphing (2D & 3D) and download easily in a math web app.",
+        "demo": "https://graph-plotter-2d-3d-anurag.streamlit.app",
+        "repo": "https://github.com/anurag-panda-dev/graph-plotter-2D-3D"
     }
 ]
 
